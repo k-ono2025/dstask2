@@ -24,7 +24,7 @@ task2/<br>
 ├── log_regression_grouped_final_result.csv # 実行結果CSV<br>
 ├── check_vif.py # VIF算出による多重共線性の確認<br>
 ├── evaluate_model.py # モデル評価用スクリプト（RMSE等）<br>
-├── model_evaluation_metrics.csv # 評価指標出力（RMSEなど）<br>
+├── model_evaluation_metrics.csv # 評価指標出力（RMSE等）<br>
 ├── plot_log_space.py # 結果の可視化スクリプト<br>
 ├── vif_result.csv # VIFの出力結果<br>
 ├── log_regression_standardized.py # 正規化重回帰分析実行<br>
